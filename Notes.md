@@ -5,6 +5,16 @@
 ## [Ubuntu](https://distrowatch.com/table.php?distribution=ubuntu)**
 Desc: Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world.
 
+## [Linux Mint](https://distrowatch.com/table.php?distribution=mint)**
+Desc: Linux Mint is an Ubuntu-based distribution whose goal is to provide a classic desktop experience with many convenient, custom tools and optional out-of-the-box multimedia support. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories. 
+
+
+## [Manjaro Linux](https://distrowatch.com/table.php?distribution=manjaro)*
+Desc: Manjaro Linux is a fast, user-friendly, desktop-oriented operating system based on Arch Linux. Key features include intuitive installation process, automatic hardware detection, stable rolling-release model, ability to install multiple kernels, special Bash scripts for managing graphics drivers and extensive desktop configurability. Manjaro Linux offers Xfce as the core desktop options, as well as KDE, GNOME and a minimalist Net edition for more advanced users. Community-supported desktop flavours are also available.
+
+## [PopOS](https://distrowatch.com/table.php?distribution=popos)
+Desc: Pop!_OS is an Ubuntu-based Linux distribution featuring a custom GNOME desktop. Pop!_OS is designed to have a minimal amount of clutter on the desktop without distractions in order to allow the user to focus on work. The distribution is developed by Linux computer retailer System76. 
+
 ## [Daphile](https://distrowatch.com/table.php?distribution=daphile)*
 Desc: Daphile is a minimal operating system for running a digital audio player on a headless computer. The operating system and media manager can be controlled remotely using a web-based interface. 
 
@@ -24,12 +34,20 @@ Desc: Parted Magic is a small live CD/USB/PXE with its elemental purpose being t
 ## [GParted Live](https://distrowatch.com/table.php?distribution=gparted)**
 Desc: GParted Live is a business card-size live CD distribution with a single purpose - to provide tools for partitioning hard disks in an intuitive, graphical environment. The distribution uses X.Org, the light-weight Fluxbox window manager, and the latest 4.x Linux kernel. GParted Live runs on most x86 machines with a Pentium II or better. 
 
+
+## [Redo Rescue](https://distrowatch.com/table.php?distribution=redo)
+Desc:
+Redo Rescue is an Ubuntu-based live CD featuring backup, restore and disaster recovery software. It centres around an easy-to-use graphical program for running bare-metal backup and recovery on hard disk partitions, as well as on external hard drives and network shares. The CD also includes several popular data recovery programs and a web browser. The distribution, originally called Redo Backup & Recovery, went on hiatus after a release in late 2012, but was eventually resurrected in 2020 by the Redo Rescue project. 
+
 ## [SysLinuxOS](https://distrowatch.com/table.php?distribution=syslinuxos)
 Desc: SysLinuxOS is a Debian-based GNU/Linux live distribution designed for system administrators and system integrators. It offers a complete networking environment that is organised to integrate various software tools and has a friendly graphical interface using the MATE desktop. SysLinuxOS was built to work right out of the box, with all networking tools already installed by default. It includes all major Virtual Private Networks (VPNs), several remote control clients, various browsers, as well as Wine, Wireshark, Etherape, Ettercap, PackETH, Packet Sender, Putty, Nmap, Cutecom, Packet Tracer, tools for serial console, and the latest stable Linux kernel. 
 
 ## [NetBSD](https://distrowatch.com/table.php?distribution=netbsd)
 Desc: NetBSD is a free, secure, and highly portable UNIX-like Open Source operating system available for many platforms, from 64-bit AlphaServers and desktop systems to handheld and embedded devices. Its clean design and advanced features make it excellent in both production and research environments, and it is user-supported with complete source. Many applications are easily available through The NetBSD Packages Collection. 
 
+
+## [Sophos](https://distrowatch.com/table.php?distribution=sophos)**
+Desc: Sophos UTM (formerly Astaro Security Gateway) offers an integrated software solution that provides superior performance in an all-in-one firewall. Its hardened operating system, stateful packet inspection, content filtering (virus & surf protection), application proxies and IPsec based VPN provides a powerful solution to today's security issues. It is designed to maximise networks security without compromising its performance enabling telecommuters, branch offices, customers and suppliers to safely share critical business information. Our proprietary user interface, WebAdmin allows ease of use and manageability of all open source firewall components, as well as the Up2Date service via the Internet. It is easy to install with all components on one CD achieving simple implementation and integration to existing network environments. 
 
 ## [pfSense](https://distrowatch.com/table.php?distribution=pfsense)**
 Desc: pfSense is a free, open source customized distribution of FreeBSD specifically tailored for use as a firewall and router that is entirely managed via web interface. In addition to being a routing platform, pfSense includes a long list of related features and a package system which allows further expandability.
@@ -48,6 +66,10 @@ Desc: Raspberry Pi OS (formerly Raspbian) is a free operating system based on De
 
 ## [Raspberry Slideshow](https://distrowatch.com/table.php?distribution=rss)
 Desc: Raspberry Slideshow is focused on being a quick-to-set-up platform for displaying image and video files. The distribution is built for the Raspberry Pi exclusively. Insert a USB key with image/video files or a text file with image/video URIs and boot the OS: the system will display a slideshow of the media in a full-screen view using the Omxplayer. 
+
+
+## [RasPlex](https://distrowatch.com/table.php?distribution=rasplex)
+Desc: RasPlex lets you turn your TV into a Smart TV. Similar to the AppleTV, but running on a Raspberry Pi computer and completely free and open source, RasPlex is basically a set-top box that lets you play content from your computer or smart phone to your TV. RasPlex currently uses LibreELEC as its base OS.
 
 ## [Kali Linux](https://distrowatch.com/table.php?distribution=kali)**
 Desc: Kali Linux (formerly known as BackTrack) is a Debian-based distribution with a collection of security and forensics tools. It features timely security updates, support for the ARM architecture, a choice of four popular desktop environments, and seamless upgrades to newer versions. 
@@ -131,3 +153,7 @@ Desc: Salient OS is an Arch Linux-based, rolling-release distribution aimed at m
 
 ## [EXE GNU/Linux](https://distrowatch.com/table.php?distribution=exe)
 Desc: Exe GNU/Linux is a Debian-based desktop Linux distribution. Its primary goal is to provide a Debian variant that ships with a slightly re-themed Trinity desktop environment (a fork of KDE 3), as well as several useful scripts and utilities. It offers LXDE as an alternative desktop. It uses the official Debian repositories, as well as the Trinity mirror for updating the desktop environment. In late 2017, the distribution re-based itself on Devuan, using the official Devuan repositories.
+
+
+## [MX Linux](https://distrowatch.com/table.php?distribution=mx)
+Desc: MX Linux, a desktop-oriented Linux distribution based on Debian's "Stable" branch, is a cooperative venture between the antiX and former MEPIS Linux communities. Using Xfce as the default desktop (with separate KDE Plasma and Fluxbox editions also available), it is a mid-weight operating system designed to combine an elegant and efficient desktop with simple configuration, high stability, solid performance and medium-sized footprint. 
