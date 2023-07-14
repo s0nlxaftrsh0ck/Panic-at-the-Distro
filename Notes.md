@@ -1,3 +1,8 @@
+# Inner Thought / Mental Notes
+1. Using *Save Point* & *SP##* to make reminder / checkpoints for myself when returning to my code so I don't forget where I am when I last left off on coding. 
+2. Eventually would like to automate this and have it save files to the NAS for a Linux/Windows ISO/Medicat repo
+3. Find a way to keep an eye on date differences and automate a download when an "update" happens
+
 # Distros I'm interested in
 
 [Distro Torrent Archive](https://distrowatch.com/dwres.php?resource=bittorrent)

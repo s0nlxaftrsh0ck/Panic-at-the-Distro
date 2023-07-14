@@ -47,3 +47,5 @@ print(tList)
 #       <a href="|--> 4mlinux <--|"><img find and highlight this particular tag.
 #           | Found the regex for finding the source name for that torrent --> (?<=<a href=\").*(?=\"><img)
 #               | Combining both (?<=<a href=\").*.torrent(?=\")|(?<=<a href=\").*(?=\"><img)
+#                   | Found a simplified way to only pick up the torrent link after dwres/torrents/[TorrentLinkHere]
+#                       ((?<=\/torrents\/).*.torrent(?=">))
